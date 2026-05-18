@@ -1,3 +1,8 @@
+## Dashboard Preview
+
+![Subscription-Cohort-Analysis-Dashboard 1](Screenshot%202026-05-11%20174651.png)
+
+![Subscription-Cohort-Analysis-Dashboard 2](Screenshot%202026-05-11%20175721.png)
 
 **Project Overview**
 An interactive Power BI dashboard analyzing customer retention and 
